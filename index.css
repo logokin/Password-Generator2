@@ -69,6 +69,11 @@ hr {
   
 }
 
+input{
+  background-color: none;
+  margin-bottom: 20px;
+}
+
 .body--section-passwordTwo {
   /* margin-left: 24px; */
 }
